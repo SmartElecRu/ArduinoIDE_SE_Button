@@ -1,0 +1,39 @@
+#######################################
+# Syntax Coloring SE Unit
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+pin	KEYWORD1
+analog_pin	KEYWORD1
+noize_filter_time	KEYWORD1
+long_push_time	KEYWORD1
+dblclick_pause_time	KEYWORD1
+min_level	KEYWORD1
+max_level	KEYWORD1
+analog_value	KEYWORD1
+gist_value	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+Pressed	KEYWORD2
+LongPressed	KEYWORD2
+OnChange	KEYWORD2
+OnPress	KEYWORD2
+OnRelease	KEYWORD2
+OnLongPress	KEYWORD2
+OnLongRelease	KEYWORD2
+OnClick	KEYWORD2
+OnDblClick	KEYWORD2
+CancelFutureOnClickDblClickLongPress	KEYWORD2
+init	KEYWORD2
+loop	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+

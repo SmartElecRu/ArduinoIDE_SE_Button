@@ -1,0 +1,9 @@
+name=SE_Button
+version=1.0.0
+author=SmartElecRu
+maintainer=Bykov Viktor <developer@smart-elec.ru>
+sentence=Advanced button operation library
+paragraph= Button library
+category=Sensors
+url= https://github.com/SmartElecRu/ArduinoIDE_SE_Button
+architectures=*
